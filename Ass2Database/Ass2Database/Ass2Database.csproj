@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B42CFF79-18B0-4C99-AEED-7703675E6313}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Ass2Database</RootNamespace>
+    <AssemblyName>Ass2Database</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapnhatdoitac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapnhatdoitac.Designer.cs">
+      <DependentUpon>frmCapnhatdoitac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatDonHang.Designer.cs">
+      <DependentUpon>frmCapNhatDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatDtsp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatDtsp.Designer.cs">
+      <DependentUpon>frmCapNhatDtsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCau3aAss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCau3aAss.Designer.cs">
+      <DependentUpon>frmCau3aAss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCau3bAss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCau3bAss.Designer.cs">
+      <DependentUpon>frmCau3bAss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDmspDoitac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDmspDoitac.Designer.cs">
+      <DependentUpon>frmDmspDoitac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGetNameProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGetNameProduct.Designer.cs">
+      <DependentUpon>frmGetNameProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHienThiKMSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHienThiKMSanPham.Designer.cs">
+      <DependentUpon>frmHienThiKMSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocsptheogia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocsptheogia.Designer.cs">
+      <DependentUpon>frmLocsptheogia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapSoLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapSoLuong.Designer.cs">
+      <DependentUpon>frmNhapSoLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTatCaDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTatCaDonHang.Designer.cs">
+      <DependentUpon>frmTatCaDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemDoiTacSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemDoiTacSanPham.Designer.cs">
+      <DependentUpon>frmThemDoiTacSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemDonHang.Designer.cs">
+      <DependentUpon>frmThemDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemSanPham.Designer.cs">
+      <DependentUpon>frmThemSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTinDoiTac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTinDoiTac.Designer.cs">
+      <DependentUpon>frmThongTinDoiTac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTinKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTinKhachHang.Designer.cs">
+      <DependentUpon>frmThongTinKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapnhatdoitac.resx">
+      <DependentUpon>frmCapnhatdoitac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatDonHang.resx">
+      <DependentUpon>frmCapNhatDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatDtsp.resx">
+      <DependentUpon>frmCapNhatDtsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCau3aAss.resx">
+      <DependentUpon>frmCau3aAss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCau3bAss.resx">
+      <DependentUpon>frmCau3bAss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDmspDoitac.resx">
+      <DependentUpon>frmDmspDoitac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGetNameProduct.resx">
+      <DependentUpon>frmGetNameProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHienThiKMSanPham.resx">
+      <DependentUpon>frmHienThiKMSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocsptheogia.resx">
+      <DependentUpon>frmLocsptheogia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapSoLuong.resx">
+      <DependentUpon>frmNhapSoLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTatCaDonHang.resx">
+      <DependentUpon>frmTatCaDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemDoiTacSanPham.resx">
+      <DependentUpon>frmThemDoiTacSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemDonHang.resx">
+      <DependentUpon>frmThemDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemSanPham.resx">
+      <DependentUpon>frmThemSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinDoiTac.resx">
+      <DependentUpon>frmThongTinDoiTac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinKhachHang.resx">
+      <DependentUpon>frmThongTinKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoBK.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,69 @@
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\bin\Debug\Ass2Database.exe.config
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\bin\Debug\Ass2Database.exe
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\bin\Debug\Ass2Database.pdb
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmMainInterface.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.Properties.Resources.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.exe
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.pdb
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemDoiTacSanPham.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemSanPham.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmGetNameProduct.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThongTinKhachHang.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThongTinDoiTac.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapnhatdoitac.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemDonHang.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmNhapSoLuong.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCau3aAss.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCau3bAss.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmTatCaDonHang.resources
+C:\Users\DELL\source\repos\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapNhatDonHang.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\bin\Debug\Ass2Database.exe.config
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\bin\Debug\Ass2Database.exe
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\bin\Debug\Ass2Database.pdb
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csprojAssemblyReference.cache
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmMainInterface.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapnhatdoitac.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapNhatDonHang.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCau3aAss.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCau3bAss.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmGetNameProduct.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmNhapSoLuong.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmTatCaDonHang.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemDoiTacSanPham.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemDonHang.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemSanPham.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThongTinDoiTac.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThongTinKhachHang.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.Properties.Resources.resources
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csproj.GenerateResource.cache
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.exe
+C:\Users\Trung Tinh\Source\Repos\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.pdb
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csprojAssemblyReference.cache
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmMainInterface.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapnhatdoitac.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapNhatDonHang.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCau3aAss.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCau3bAss.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmGetNameProduct.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmNhapSoLuong.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmTatCaDonHang.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemDoiTacSanPham.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemDonHang.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThemSanPham.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThongTinDoiTac.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmThongTinKhachHang.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.Properties.Resources.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csproj.GenerateResource.cache
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.csproj.CoreCompileInputs.cache
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.exe
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.pdb
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\bin\Debug\Ass2Database.exe.config
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\bin\Debug\Ass2Database.exe
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\bin\Debug\Ass2Database.pdb
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmHienThiKMSanPham.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmLocsptheogia.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmDmspDoitac.resources
+C:\Users\tannguyen\Desktop\ASS2DATA\Ass2Database\Ass2Database\Ass2Database\obj\Debug\Ass2Database.frmCapNhatDtsp.resources
